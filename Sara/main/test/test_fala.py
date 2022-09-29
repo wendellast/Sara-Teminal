@@ -10,7 +10,7 @@ import os
 
 #Reconhecedor de Audio
 audio = sr.Recognizer()
-speak = pyttsx3.init('sapi5-Letícia-F123')
+speak = pyttsx3.init()
 
 
 
